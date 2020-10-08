@@ -1,0 +1,7 @@
+{
+  "name": "build-cocos2d-x-helper",
+  "version": "0.0.1",
+  "description": "Cocos2d-x引擎构建辅助工具.",
+  "author": "Cocos Creator",
+  "main": "main.js"
+}

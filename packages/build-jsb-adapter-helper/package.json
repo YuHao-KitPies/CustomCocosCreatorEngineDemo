@@ -1,0 +1,7 @@
+{
+  "name": "build-jsb-adapter-helper",
+  "version": "0.0.1",
+  "description": "JSB Adapter 构建辅助工具.",
+  "author": "Cocos Creator",
+  "main": "main.js"
+}
